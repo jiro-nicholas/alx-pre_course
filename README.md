@@ -1,1 +1,1 @@
-This repo helps us learn about git
+My first readme
